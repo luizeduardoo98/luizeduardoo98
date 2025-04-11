@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Luiz 😁
+## Welcome to my profile 😁
 
  <div>
    <a href="https://github.com/luizeduardoo98">
